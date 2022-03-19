@@ -13,8 +13,15 @@
 *this is italic*
 
 **this is bold**
+*this is italic*
+##Heading1
 
+![https://hakaimagazine.com/features/the-wonderful-transcendent-life-of-an-odd-nosed-monkey/]
 
+_____
+---
+
+**this is not working**
 
 >this is note 
 
@@ -22,4 +29,9 @@
 
 `this is code (blue greet
 
-)
+
+
+https://github.com/Mleczkow71/cloning-V3/issues/1#issue-1174213628
+
+![Princess-Maker-DollDivine](https://user-images.githubusercontent.com/101629699/159114673-093f813e-5af8-43d4-a6c6-d8061ff23030.jpg)
+
